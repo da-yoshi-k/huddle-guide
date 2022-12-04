@@ -77,3 +77,7 @@
 ## 画面遷移図
 
 [figma](https://www.figma.com/file/RcDHHadQXXwEub541ZVmCX/Huddle-Guide?node-id=0%3A1&t=6kkDHQpxN2BYMgvY-1)
+
+## ER図
+
+[draw.io](https://drive.google.com/file/d/1_JENq5Bnb68tcIxfn3xuk0-qcJifo-R6/view?usp=sharing)
