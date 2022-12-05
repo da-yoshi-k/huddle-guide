@@ -1,0 +1,3 @@
+[submodule "huddle-guide-backend"]
+	path = huddle-guide-backend
+	url = https://github.com/da-yoshi-k/huddle-guide-backend.git
