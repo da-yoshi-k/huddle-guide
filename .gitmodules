@@ -1,6 +1,8 @@
 [submodule "huddle-guide-backend"]
 	path = huddle-guide-backend
 	url = https://github.com/da-yoshi-k/huddle-guide-backend.git
+	branch = main
 [submodule "huddle-guide-frontend"]
 	path = huddle-guide-frontend
 	url = https://github.com/da-yoshi-k/huddle-guide-frontend.git
+	branch = main
