@@ -4,10 +4,12 @@ Huddle Guideはチームメンバーの共通点を発見したり、
 
 <img src="./assets/service-image.svg">
   
-**サービス URL**  
+<br>
+
+## **サービス URL**  
 https://huddle-guide.com
 
----
+<br>
 
 ## ユーザーが抱える課題
 
@@ -15,9 +17,12 @@ https://huddle-guide.com
 - リモートワークする中で業務に関する連絡だけに留まってしまい、どこか壁があるように感じる。  
 - オンラインのミーティングや交流会では特定の人物が主で話してしまい、発言しにくい。  
 
----
+<br>
 
-## 主な機能
+# サービスが提供する主な機能
+
+2023年3月時点で以下の2つのワークを提供しています。  
+これらは最大8人までのチームで集まって、同期的にコミュニケーションを取るためのワークになっています。
 
 ## 共通点探し
 
@@ -84,17 +89,19 @@ https://huddle-guide.com
 
 - [GitHub Actions](https://docs.github.com/ja/actions)
 
----
-
 ## インフラ構成図
 
 <img src="./assets/infra.png">
+
+<br>
 
 ---
 
 ## ER図
 
 <img src="./assets/ER-diagram.png">
+
+<br>
 
 ---  
   
